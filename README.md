@@ -12,7 +12,9 @@ A seguir, apresento o passo a passo para atingir o resultado solicitado no desaf
 CREATE SCHEMA desafio1 
 ```
 
-2 - Rodar arquivo **script_nba.py**
+2 - Salvar csv dos dados (**NBA Payroll(1990-2023).csv**) na mesma pasta do arquivo **script_nba.py**
+
+3 - Rodar arquivo **script_nba.py**
 
 ### Resultados obtidos:
 
