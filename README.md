@@ -1,5 +1,5 @@
 # Bootcamp_Desafio1
-Repositório feito para apresentar resultados do desafio 1 - bootcamp how.
+Repositório desenvolvido por **Hayala Souza**  para apresentar resultados do desafio 1 - bootcamp how.
 
 A seguir, apresento o passo a passo para atingir o resultado solicitado no desafio.
 
