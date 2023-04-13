@@ -8,7 +8,9 @@ A seguir, apresento o passo a passo para atingir o resultado solicitado no desaf
 
 1 - Criar schema para salvar as tabelas finais, rodando a seguinte linha de comando:
 
- <code>CREATE SCHEMA desafio1 
+```sql
+CREATE SCHEMA desafio1 
+```
 
 2 - Rodar arquivo script_nba.py
 
