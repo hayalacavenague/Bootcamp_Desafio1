@@ -24,7 +24,7 @@ CREATE SCHEMA desafio1
 
 1 - Salvar json dos dados (**json_data.json**) na mesma pasta do arquivo **script_startups.py**
 
-3 - Rodar arquivo **script_startups.py**
+2 - Rodar arquivo **script_startups.py**
 
 ### Resultados obtidos:
 
